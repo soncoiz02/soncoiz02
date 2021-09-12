@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning Javascript
 
 My personal project
-  - Weather App: 
-  - Music Player: 
-  - Food order App:
-
-<!---
-soncoiz02/soncoiz02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  - Weather App: https://soncoiz02.github.io/Weather-app/
+    Using: HTML, SASS, Javascript, Rest API
+  - Music Player: https://soncoiz02.github.io/music-player/
+    Using: HTML, SASS, Javascript, Rest API
+  - Food order App: https://son-food-app.herokuapp.com/
+    Using: HTML, SASS, Javascript, Rest API, Json-Server
