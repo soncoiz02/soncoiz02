@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soncoiz02
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Website Design
+- 🌱 I’m currently learning Javascript, ReactJs
 
 * My personal project
   - Weather App: https://soncoiz02.github.io/Weather-app/.
