@@ -1,3 +1,4 @@
+<h2>About me</h2>
 - Hi, I’m Tran Bao Son 
 - I’m interested in Web Design
 - I’m a college student and currently learning Javascript, ReactJs at FPT Polytechnic college
