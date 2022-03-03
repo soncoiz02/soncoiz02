@@ -1,8 +1,9 @@
 <h2>About me</h2>
-- Hi, I’m Tran Bao Son 
-- I’m interested in Web Design
-- I’m a college student and currently learning Javascript, ReactJs at FPT Polytechnic college
-- My goal is become a Web Developer
+
+<p>Hi, I’m Tran Bao Son </p>
+<p> I’m interested in Web Design</p>
+<p> I’m a college student and currently learning Javascript, ReactJs at FPT Polytechnic college</p>
+<p> My goal is become a Web Developer</p>
 
 <h2>Front-end Skills</h2>
 <div style="display: flex;">
