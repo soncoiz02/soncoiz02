@@ -27,4 +27,8 @@
   Music player web: https://son-music-player.herokuapp.com
   <span>(Tech used: ReactJs, Redux, Sass)</span>
 </p>
+<p>
+  F8 clone: https://itlearnz.000webhostapp.com/
+  <span>(Tech used: HTML, Sass, PHP, mySQL)</span>
+</p>
 
