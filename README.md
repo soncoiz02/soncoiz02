@@ -2,7 +2,7 @@
 
 <p>Hi, I’m Tran Bao Son </p>
 <p> I’m interested in Web Design</p>
-<p> I’m a college student and currently learning Javascript, ReactJs at FPT Polytechnic college</p>
+<p> I’m a college student and currently learning Javascript, ReactJs</p>
 <p> My goal is become a Web Developer</p>
 
 <h2>Front-end Skills</h2>
