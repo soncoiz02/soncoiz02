@@ -14,9 +14,6 @@
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
-<h2>Language Stats stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soncoiz02&theme=vue&layout=&langs_count=3">
 
 <h2>My personal Projects</h2>
 <p>
@@ -31,4 +28,9 @@
   F8 clone: https://itlearnz.000webhostapp.com/
   <span>(Tech used: HTML, Sass, PHP, mySQL)</span>
 </p>
+<h2>Language Stats stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soncoiz02&theme=vue&layout=&langs_count=3">
+
+
 
