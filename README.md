@@ -21,7 +21,7 @@
   <span>(Tech used: ReactJs, Redux, Sass, Firebase)</span>
 </p>
 <p>
-  Music player web: https://son-music-player.herokuapp.com
+  Music player web: https://smusic-2d0fa.web.app/
   <span>(Tech used: ReactJs, Redux, Sass)</span>
 </p>
 <p>
